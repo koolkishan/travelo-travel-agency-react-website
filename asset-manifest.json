@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ade80fe1.chunk.css",
+    "main.js": "./static/js/main.ced10c98.chunk.js",
+    "main.js.map": "./static/js/main.ced10c98.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.db2c6f0f.js",
+    "runtime-main.js.map": "./static/js/runtime-main.db2c6f0f.js.map",
+    "static/js/2.716bc965.chunk.js": "./static/js/2.716bc965.chunk.js",
+    "static/js/2.716bc965.chunk.js.map": "./static/js/2.716bc965.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ade80fe1.chunk.css.map": "./static/css/main.ade80fe1.chunk.css.map",
+    "static/js/2.716bc965.chunk.js.LICENSE.txt": "./static/js/2.716bc965.chunk.js.LICENSE.txt",
+    "static/media/Destination1.b43b40eb.png": "./static/media/Destination1.b43b40eb.png",
+    "static/media/Destination2.64eec980.png": "./static/media/Destination2.64eec980.png",
+    "static/media/Destination3.b4028caa.png": "./static/media/Destination3.b4028caa.png",
+    "static/media/Destination4.c19a433b.png": "./static/media/Destination4.c19a433b.png",
+    "static/media/Destination5.8db742a0.png": "./static/media/Destination5.8db742a0.png",
+    "static/media/Destination6.b43b40eb.png": "./static/media/Destination6.b43b40eb.png",
+    "static/media/avatarImage.d37df039.jpeg": "./static/media/avatarImage.d37df039.jpeg",
+    "static/media/hero.decd6e52.png": "./static/media/hero.decd6e52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db2c6f0f.js",
+    "static/js/2.716bc965.chunk.js",
+    "static/css/main.ade80fe1.chunk.css",
+    "static/js/main.ced10c98.chunk.js"
+  ]
+}
